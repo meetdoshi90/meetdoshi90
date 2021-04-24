@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/meetdoshi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="meetdoshi90" height="30" width="40" /></a>
-<a href="https://kaggle.com/meetdoshi90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="meetdoshi90" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meetdoshi90" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619264062~hmac=14e93cbb73211a8f0c438e2fe263ec67" alt="meetdoshi90" height="30" width="40" /></a>
+<a href="https://kaggle.com/meetdoshi90" target="blank"><img align="center" src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="meetdoshi90" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
