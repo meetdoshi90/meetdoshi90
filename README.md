@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **meetdoshi90@gmail.com**
 
-- 📄 Know about my experiences [meetdoshi90.github.io](meetdoshi90.github.io)
+- 📄 Know about my experiences [https://meetdoshi90.github.io/](meetdoshi90.github.io)
 
 - ⚡ Fun fact **I am a loser**
 
