@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Whatever I can**
 
-- 👨‍💻 All of my projects are available at [github.com/meetdoshi90](github.com/meetdoshi90)
+- 👨‍💻 All of my projects are available at [github.com/meetdoshi90](https://github.com/meetdoshi90)
 
 - 📫 How to reach me **meetdoshi90@gmail.com**
 
