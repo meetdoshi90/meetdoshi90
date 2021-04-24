@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Narendra Doshi</h1>
 <h3 align="center">Currently in my Third year of Undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetdoshi90&label=Profile%20views&color=purple&style=flat" alt="meetdoshi90" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetdoshi90&label=Profile%20views&color=blueviolet&style=flat" alt="meetdoshi90" /> </p>
 
 - 🌱 I’m currently learning **Whatever I can**
 
